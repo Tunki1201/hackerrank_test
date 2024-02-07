@@ -1,0 +1,21 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "plus-minus",
+    "mini-max-sum",
+    "time-conversion",
+    "breaking-records",
+    "camel-case",
+    "divisible-sum-pairs",
+    "sparse-arrays",
+    "lonely-integer",
+    "read-inputs",
+    "grading-students",
+    "flipping-bits",
+    "diagonal-difference",
+    "counting-sort",
+    "counting-valleys",
+    "pangrams",
+    "mars-exploration"
+]
